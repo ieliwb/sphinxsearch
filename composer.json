@@ -1,5 +1,5 @@
 {
-  "name": "ieliwb/sphinxsearch",
+  "name": "sngrl/sphinxsearch",
   "description": "Laravel package to query Sphinxsearch in Laravel 8",
   "keywords": [
     "sphinx",
